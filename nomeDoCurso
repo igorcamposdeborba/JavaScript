@@ -70,4 +70,4 @@ function curso(newStringWithPos) {
      if (string == '69 ROBOTICA'){ string = string.replace(coursePos, 'Robótica e Projetos Digitais');}
 
 	return string;
-}
+} 
